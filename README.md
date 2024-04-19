@@ -3,6 +3,8 @@
 🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and GraphQL.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
 -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Victor+Mono&size=22&duration=4500&pause=1000&color=FFFFFF&center=true&vCenter=tru&random=false&width=435&height=45&lines=Hello+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F%2C+I'm+Sudipta+Singha)](https://git.io/typing-svg)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudipto_.s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudipta-singha-850274272) 
